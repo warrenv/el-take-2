@@ -13,11 +13,11 @@ If you are comfortable setting up python virtenv and
 willing to export env vars by hand, you can skip
 installing direnv. But it really makes things easier...
 
-- install [direnv](https://docs.github.com/en/enterprise-server@3.4/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+- install [direnv](https://direnv.net/docs/installation.html)
     direnv is used to setup the python environment and
     export required environment variables.
 
-- [Create an access token in github](https://docs.github.com/en/enterprise-server@3.4/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token()
+- [Create an access token in github](https://docs.github.com/en/enterprise-server@3.4/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
 ### Setup
 
