@@ -4,4 +4,4 @@
 # PR_REVIEWERS as comma separated list of github usernames.
 
 #git@github.com:warrenv/content-consumer.git fooRepo,barRepo,bazRepo login1,login2
-git@github.com:warrenv/content-consumer.git content
+#git@github.com:warrenv/content-consumer.git content
