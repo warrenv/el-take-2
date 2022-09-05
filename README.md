@@ -47,7 +47,7 @@ You can choose which submodules are checked.
 ### Production
 
 Add a crontab entry to run the script at the desired interval.  Given the
-[requierments](REQUIREMENTS.txt), this is a bit tricky. Googling will
+[requirements](REQUIREMENTS.md), this is a bit tricky. Googling will
 reveal some ways to run tasks every N weeks using a wrapper script.
 
 If you have ssh access to production servers/containers, this above
